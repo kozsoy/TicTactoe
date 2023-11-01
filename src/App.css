@@ -1,0 +1,26 @@
+
+.board-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 100px;
+  cursor: pointer;
+}
+.square {
+  border: 1px solid;
+  border-radius: 3px;
+  /* margin: 1px; */
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.board-container{
+  margin: 20px;
+  margin: 20px;
+    justify-content: center;
+    display: flex;
+    
+}
